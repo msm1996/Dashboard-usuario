@@ -41,3 +41,6 @@
 - Navegação entre páginas
 <br>
 - Exibição de dados dinâmicos</h2>
+
+<h2>📸 Imagem do projeto:</h2> 
+<img src= https://github.com/msm1996/Dashboard-Usu-rios/blob/main/dashboard/img/Captura%20de%20tela%202026-04-19%20153952.png?raw=true>
