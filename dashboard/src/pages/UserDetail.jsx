@@ -69,6 +69,7 @@ function UserDetail() {
           display: "flex",
           marginTop: "50px",
           alignItems: "center",
+          
 
 
         }}>
