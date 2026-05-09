@@ -1,5 +1,6 @@
 <h1> 📊 Dashboard de Usuários</h1>
 <h2>Projeto desenvolvido com React.js para gerenciamento e visualização de usuários, contendo gráficos, navegação entre páginas e classificação de níveis dos usuários.
+  
 A aplicação consome dados de uma API REST e exibe informações de forma dinâmica e responsiva.</h2>
 
 <br>
